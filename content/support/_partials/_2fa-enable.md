@@ -19,4 +19,4 @@ To enable two-factor authentication for your Cloudflare login:
 2.  Under the **My Profile** dropdown, select **My Profile**.
 3.  Select **Authentication**. 
 4.  Select **Manage** in the Two-Factor Authentication card.
-5.  Configure either a [TOTP mobile app](/fundamentals/account-and-billing/account-security/2fa/#configure-totp-mobile-application-authentication-for-two-factor-cloudflare-login) or a [security key to enable 2FA on your account](/fundamentals/account-and-billing/account-security/2fa/#configure-security-key-authentication-for-two-factor-cloudflare-login).
+5.  Configure either a [TOTP mobile app](/fundamentals/setup/account/account-security/2fa/#configure-totp-mobile-application-authentication-for-two-factor-cloudflare-login) or a [security key to enable 2FA on your account](/fundamentals/account-and-billing/account-security/2fa/#configure-security-key-authentication-for-two-factor-cloudflare-login).
